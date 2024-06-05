@@ -20,7 +20,7 @@ Siga os passos abaixo para rodar o projeto localmente.
 
 1. Clone este repositório:
 
-    git clone https://github.com/SEU_USUARIO/calculadora_flutter.git
+    git clone https://github.com/gabriel-aleksandro/calculadora_flutter
     cd calculadora_flutter
 
 2. Instale as dependências:
