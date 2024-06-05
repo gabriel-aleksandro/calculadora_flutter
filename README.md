@@ -1,16 +1,31 @@
-# calculadora_flutter
+# Calculadora Flutter
 
-A new Flutter project.
+Este é um projeto de uma calculadora simples desenvolvida com Flutter. Ele demonstra a criação de uma calculadora com operações básicas e uma tela de histórico para exibir as operações anteriores.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Operações básicas: adição, subtração, multiplicação e divisão
+- Tela de histórico para exibir operações anteriores
 
-A few resources to get you started if this is your first Flutter project:
+## Como Rodar o Projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Siga os passos abaixo para rodar o projeto localmente.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Pré-requisitos
+
+- Flutter SDK: [Instale o Flutter](https://flutter.dev/docs/get-started/install)
+- Android Studio ou Visual Studio Code (com extensões Flutter e Dart)
+
+### Passos para Configuração
+
+1. Clone este repositório:
+
+    git clone https://github.com/SEU_USUARIO/calculadora_flutter.git
+    cd calculadora_flutter
+
+2. Instale as dependências:
+
+    flutter pub get
+    
+3. Execute o projeto:
+    flutter run
