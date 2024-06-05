@@ -28,4 +28,5 @@ Siga os passos abaixo para rodar o projeto localmente.
     flutter pub get
     
 3. Execute o projeto:
+
     flutter run
